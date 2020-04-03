@@ -1,4 +1,4 @@
-# Map My World - Robotics Project - Udacity Robotics Engineer ND
+# Map My World - Robotics Project - Udacity Robotics Engineer
 ## Overview
 The objective of the project is to create a 2D occupancy grid and 3D octomap from a simulated environment using a custom robot with the RTAB-Map package.
 
